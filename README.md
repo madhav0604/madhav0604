@@ -2,7 +2,7 @@
 - 👀 I’m interested in learning to code
 - 🌱 I’m currently having basic knowledge of python
 - 💞️ I’m looking to collaborate on making new projects
-- 📫 How to reach me - Discord: Madhav#5884
+- 📫 How to reach me - Discord: trackpadgamer#0931
 
 <!---
 madhav0604/madhav0604 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
