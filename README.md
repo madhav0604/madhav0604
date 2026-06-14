@@ -1,7 +1,5 @@
-Hey!
-Eager to learn new stuff
-Ping me up on Discord: trackpadgamer#0931
-:))
+Electronics student
+exploring & learning 
 
 <!---
 madhav0604/madhav0604 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
